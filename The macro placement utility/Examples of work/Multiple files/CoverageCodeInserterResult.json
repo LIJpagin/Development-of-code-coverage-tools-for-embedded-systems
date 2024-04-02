@@ -1,0 +1,74 @@
+{
+"Result" : [
+{"Statement":7,"NumberLine":17,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":23,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":34,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":39,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":46,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":51,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":56,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":61,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":65,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":6,"NumberLine":75,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":6,"NumberLine":69,"FileName":"ccamera.cpp","NumberFileName":1697},
+{"Statement":7,"NumberLine":83,"FileName":"ccamera.cpp","NumberFileName":1697}]
+}{
+"Result" : [
+{"Statement":7,"NumberLine":13,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":7,"NumberLine":17,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":3,"NumberLine":72,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":7,"NumberLine":78,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":1,"NumberLine":82,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":1,"NumberLine":84,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":1,"NumberLine":86,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":2,"NumberLine":88,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":7,"NumberLine":93,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":7,"NumberLine":104,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":1,"NumberLine":110,"FileName":"ccamera_base.cpp","NumberFileName":1698},
+{"Statement":7,"NumberLine":116,"FileName":"ccamera_base.cpp","NumberFileName":1698}]
+}{
+"Result" : [
+{"Statement":7,"NumberLine":5,"FileName":"cnocamera.cpp","NumberFileName":1699},
+{"Statement":7,"NumberLine":8,"FileName":"cnocamera.cpp","NumberFileName":1699}]
+}{
+"Result" : [
+]
+}{
+"Result" : [
+]
+}{
+"Result" : [
+{"Statement":7,"NumberLine":18,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":25,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":37,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":43,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":51,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":57,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":63,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":69,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":74,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":6,"NumberLine":86,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":6,"NumberLine":79,"FileName":"ccamera.cpp","NumberFileName":1700},
+{"Statement":7,"NumberLine":95,"FileName":"ccamera.cpp","NumberFileName":1700}]
+}{
+"Result" : [
+{"Statement":7,"NumberLine":14,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":7,"NumberLine":19,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":3,"NumberLine":75,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":7,"NumberLine":82,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":1,"NumberLine":87,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":1,"NumberLine":90,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":1,"NumberLine":93,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":2,"NumberLine":96,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":7,"NumberLine":102,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":7,"NumberLine":114,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":1,"NumberLine":121,"FileName":"ccamera_base.cpp","NumberFileName":1701},
+{"Statement":7,"NumberLine":128,"FileName":"ccamera_base.cpp","NumberFileName":1701}]
+}{
+"Result" : [
+{"Statement":7,"NumberLine":6,"FileName":"cnocamera.cpp","NumberFileName":1702},
+{"Statement":7,"NumberLine":10,"FileName":"cnocamera.cpp","NumberFileName":1702}]
+}{
+"Result" : [
+]
+}
